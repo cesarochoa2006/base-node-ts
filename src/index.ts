@@ -1,3 +1,5 @@
-const init: any = () => console.log("init")
+const init: Function = () => {
+  console.log("init")
+}
 
 init()
