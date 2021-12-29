@@ -4,6 +4,7 @@
   "description": "A base project using node and typescript with linters and git hooks ",
   "main": "index.js",
   "scripts": {
+    "prepare": "husky install",
     "commit": "cz",
     "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +12,11 @@
   "author": "Cesar Ochoa",
   "license": "ISC",
   "devDependencies": {
+    "@commitlint/cli": "^16.0.1",
+    "@commitlint/config-conventional": "^16.0.0",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
+    "husky": "^7.0.4",
     "standard-version": "^9.3.2"
   },
   "config": {
