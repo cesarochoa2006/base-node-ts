@@ -1,4 +1,3 @@
-const init = () => console.log('init')
+const init: any = () => console.log("init")
 
-
-init();
+init()
