@@ -6,6 +6,7 @@
   "rules": {
     "@typescript-eslint/no-redeclare": "off",
     "space-before-function-paren": 0,
-    "semi": 2
+    "semi": 2,
+    "no-floating-promises": 0
   }
 }

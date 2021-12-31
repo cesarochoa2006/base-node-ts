@@ -8,7 +8,8 @@
     "commit": "cz",
     "dev": "nodemon",
     "release": "standard-version",
-    "test": "jest "
+    "test": "jest",
+    "performance": "ts-node src/_tests_/performance-test.ts"
   },
   "author": "Cesar Ochoa",
   "license": "ISC",
@@ -19,6 +20,7 @@
     "@types/jest": "^27.0.3",
     "@types/node": "^17.0.5",
     "@types/supertest": "^2.0.11",
+    "artillery": "^1.7.9",
     "commitizen": "^4.2.4",
     "cz-conventional-changelog": "^3.3.0",
     "eslint-config-prettier": "^8.3.0",
@@ -46,6 +48,8 @@
     ]
   },
   "dependencies": {
-    "express": "^4.17.2"
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "morgan": "^1.10.0"
   }
 }
