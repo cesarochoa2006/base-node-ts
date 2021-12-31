@@ -13,7 +13,7 @@ export const server = app.listen(port, () =>
  * Added sample route, must be refactored
  * dont forget refactoring tests when updating!!!
  */
-app.use("/time", (req: Request, res: Response, next: NextFunction) => {
+app.use("/time", (_req: Request, res: Response, _next: NextFunction) => {
   res.send(new Date())
 })
 
