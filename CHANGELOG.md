@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/cesarochoa2006/base-node-ts/compare/v1.3.0...v1.4.0) (2021-12-31)
+
+
+### Features
+
+* **all:** added performance test and logger ([07c316a](https://github.com/cesarochoa2006/base-node-ts/commit/07c316a0571899fe27b64b02ec5081bf8f19b525))
+
 ## [1.3.0](https://github.com/cesarochoa2006/base-node-ts/compare/v1.2.0...v1.3.0) (2021-12-29)
 
 
