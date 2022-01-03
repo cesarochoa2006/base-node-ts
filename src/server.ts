@@ -16,3 +16,6 @@ export const server = app.listen(port, () =>
 app.use("/time", (_req: Request, res: Response, _next: NextFunction) => {
   res.send(new Date())
 })
+app.use("/time2", (_req: Request, res: Response, _next: NextFunction) => {
+  res.send(new Date())
+})
