@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/cesarochoa2006/base-node-ts/compare/v1.4.4...v1.5.0) (2022-01-03)
+
+
+### Features
+
+* **all:** added a new mock service ([240bd9d](https://github.com/cesarochoa2006/base-node-ts/commit/240bd9d062836187080be877203a88e055b9a28e))
+
+
+### Bug Fixes
+
+* added unstaged file ([c555aa8](https://github.com/cesarochoa2006/base-node-ts/commit/c555aa8dc307924fc30c92ea9b84bbf839ab6f51))
+
 ### [1.4.4](https://github.com/cesarochoa2006/base-node-ts/compare/v1.4.2...v1.4.4) (2022-01-03)
 
 
