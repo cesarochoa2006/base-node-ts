@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.4](https://github.com/cesarochoa2006/base-node-ts/compare/v1.4.2...v1.4.4) (2022-01-03)
+
+
+### Bug Fixes
+
+* added prod validation to use of morgan ([e710f44](https://github.com/cesarochoa2006/base-node-ts/commit/e710f44309131d5bec7aabcca625e2e3973dd7fe))
+
 ### [1.4.3](https://github.com/cesarochoa2006/base-node-ts/compare/v1.4.2...v1.4.3) (2022-01-03)
 
 ### [1.4.2](https://github.com/cesarochoa2006/base-node-ts/compare/v1.4.1...v1.4.2) (2021-12-31)
